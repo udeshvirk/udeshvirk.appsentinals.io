@@ -75,10 +75,63 @@ label {
     margin-top: 70px;
 }
 
-.mat-h2, .mat-title, .mat-typography h2{
+.mat-h2,
+.mat-title,
+.mat-typography h2 {
     color: #ffffff;
 }
 
 .mat-list-item {
     line-height: 32px;
+}
+.policy-panel .mat-form-field-underline {
+    background-color: #fff !important;
+}
+
+.mat-slide-toggle.mat-warn.mat-checked .mat-slide-toggle-bar,
+.mat-radio-button.mat-warn.mat-radio-checked .mat-radio-outer-circle {
+    background-color: #6daddb;
+}
+
+.mat-slide-toggle.mat-warn.mat-checked .mat-slide-toggle-thumb,
+.mat-radio-button.mat-warn .mat-radio-inner-circle,
+.mat-radio-button.mat-warn .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple),
+.mat-radio-button.mat-warn.mat-radio-checked .mat-radio-persistent-ripple,
+.mat-radio-button.mat-warn:active .mat-radio-persistent-ripple {
+    background-color: #f9f9f9;
+}
+
+.mat-radio-outer-circle {
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.mat-radio-button.mat-warn.mat-radio-checked .mat-radio-outer-circle {
+    border-color: #f9f9f9;
+}
+
+.mat-radio-button {
+    margin-right: 10px;
+}
+.mat-form-field-ripple {
+    background-color: #fff;
+}
+
+.mat-form-field.mat-focused .mat-form-field-ripple {
+    background-color: #e9bcb7;
+}
+
+.mat-input-element::placeholder {
+    color: #f9f9f9;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+mat-card {
+    mat-card-header {
+        .mat-card-header-text {
+            margin: 0;
+        }
+    }
 }
