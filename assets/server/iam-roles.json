@@ -1,0 +1,29 @@
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "role": "Admin",
+            "access_to": "DB1.Collection1",
+            "db": "MySQL",
+            "url": "MyServer1",
+            "auth": "Y"
+        },
+        {
+            "role": "Service-account",
+            "access_to": "DB2.Collection2",
+            "db": "Mongo",
+            "url": "mongo//server:3306",
+            "auth": "N"
+        },
+        {
+            "role": "User1",
+            "access_to": "DB3.Collection3",
+            "db": "Cassandra",
+            "url": "",
+            "auth": "Y"
+        }
+    ]
+}

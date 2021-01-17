@@ -1,0 +1,60 @@
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "name": "Policy 1",
+            "status": "NA",
+            "applications": ["App1", "App2", "App3"],
+            "stats": "NA",
+            "smart_detection": true,
+            "action": "Block",
+            "schema_enforcement": false,
+            "non_conformant_api": "Ignore",
+            "oas_schema": "Log",
+            "core_rule": true,
+            "core_rule_action": "Block"
+        },
+        {
+            "name": "Policy 2",
+            "status": "NA",
+            "applications": ["App1", "App2", "App3"],
+            "stats": "NA",
+            "smart_detection": true,
+            "action": "Block",
+            "schema_enforcement": false,
+            "non_conformant_api": "Ignore",
+            "oas_schema": "Log",
+            "core_rule": true,
+            "core_rule_action": "Block"
+        },
+        {
+            "name": "Policy 3",
+            "status": "NA",
+            "applications": ["App1", "App2", "App3"],
+            "stats": "NA",
+            "smart_detection": true,
+            "action": "Block",
+            "schema_enforcement": false,
+            "non_conformant_api": "Ignore",
+            "oas_schema": "Log",
+            "core_rule": true,
+            "core_rule_action": "Block"
+        },
+        {
+            "name": "Policy 4",
+            "status": "NA",
+            "applications": ["App1", "App2", "App3"],
+            "stats": "NA",
+            "smart_detection": true,
+            "action": "Block",
+            "schema_enforcement": false,
+            "non_conformant_api": "Ignore",
+            "oas_schema": "Log",
+            "core_rule": true,
+            "core_rule_action": "Block"
+        }
+    ]
+}

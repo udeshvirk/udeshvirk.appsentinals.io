@@ -1,0 +1,29 @@
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "name": "Jerry Andrews",
+            "last_login": "20/12/2020",
+            "last_location": "Bangalore",
+            "device": "Laptop",
+            "calls": 1
+        },
+        {
+            "name": "Theo Harris",
+            "last_login": "22/11/2020",
+            "last_location": "Bangalore",
+            "device": "Mobile",
+            "calls": 11
+        },
+        {
+            "name": "Paige Cobbett",
+            "last_login": "11/09/2020",
+            "last_location": "Bangalore",
+            "device": "iPad",
+            "calls": 12
+        }
+    ]
+}

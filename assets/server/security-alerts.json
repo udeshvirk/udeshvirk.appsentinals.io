@@ -1,0 +1,47 @@
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "event_category": "CRS",
+            "event_sub_category": "Sub Type",
+            "username": "aron.jacob",
+            "severity": "Medium",
+            "country": "India",
+            "City": "Bangalore",
+            "reputation": "Good",
+            "device": "Macbook Pro",
+            "user_agent": "Chrome",
+            "status": "Open",
+            "resolution": "Fixed"
+        },
+        {
+            "event_category": "CRS",
+            "event_sub_category": "Sub Type",
+            "username": "aron.jacob",
+            "severity": "Medium",
+            "country": "India",
+            "City": "Bangalore",
+            "reputation": "Good",
+            "device": "Macbook Pro",
+            "user_agent": "Chrome",
+            "status": "Open",
+            "resolution": "Fixed"
+        },
+        {
+            "event_category": "CRS",
+            "event_sub_category": "Sub Type",
+            "username": "aron.jacob",
+            "severity": "Medium",
+            "country": "India",
+            "City": "Bangalore",
+            "reputation": "Good",
+            "device": "Macbook Pro",
+            "user_agent": "Chrome",
+            "status": "Open",
+            "resolution": "Fixed"
+        }
+    ]
+}

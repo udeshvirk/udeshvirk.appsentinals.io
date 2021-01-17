@@ -1,0 +1,143 @@
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "display": "xApplication",
+            "name": "xApplication",
+            "mode": "Enforced",
+            "eastWestTracking": "on",
+            "namespaces": 11,
+            "services": 11,
+            "pods": 11,
+            "apis_found": 11,
+            "sensitive_info_detected": 11,
+            "policy": {
+                "title": "policy1"
+            },
+            "schema": {
+                "type": "file",
+                "file": "fileName"
+            }
+        },
+        {
+            "display": "yApplication",
+            "name": "yApplication",
+            "mode": "Simulation",
+            "eastWestTracking": "on",
+            "namespaces": 11,
+            "services": 11,
+            "pods": 11,
+            "apis_found": 11,
+            "sensitive_info_detected": 11,
+            "policy": null,
+            "schema": {
+                "type": "generated"
+            }
+        },
+        {
+            "display": "zApplication",
+            "name": "zApplication",
+            "mode": "Detection",
+            "eastWestTracking": "on",
+            "namespaces": 11,
+            "services": 11,
+            "pods": 11,
+            "apis_found": 11,
+            "sensitive_info_detected": 11,
+            "policy": {
+                "title": "policy1"
+            },
+            "schema": {
+                "type": "file",
+                "file": "fileName"
+            }
+        },
+        {
+            "display": "sApplication",
+            "name": "sApplication",
+            "mode": "Enforced",
+            "eastWestTracking": "on",
+            "namespaces": 11,
+            "services": 11,
+            "pods": 11,
+            "apis_found": 11,
+            "sensitive_info_detected": 11,
+            "policy": {
+                "title": "policy1"
+            },
+            "schema": null
+        },
+        {
+            "display": "tApplication",
+            "name": "tApplication",
+            "mode": "Simulation",
+            "eastWestTracking": "on",
+            "namespaces": 11,
+            "services": 11,
+            "pods": 11,
+            "apis_found": 11,
+            "sensitive_info_detected": 11,
+            "policy": {
+                "title": "policy1"
+            },
+            "schema": {
+                "type": "file",
+                "file": "fileName"
+            }
+        },
+        {
+            "display": "uApplication",
+            "name": "uApplication",
+            "mode": "Detection",
+            "eastWestTracking": "on",
+            "namespaces": 11,
+            "services": 11,
+            "pods": 11,
+            "apis_found": 11,
+            "sensitive_info_detected": 11,
+            "policy": {
+                "title": "policy1"
+            },
+            "schema": {
+                "type": "file",
+                "file": "fileName"
+            }
+        },
+        {
+            "display": "vApplication",
+            "name": "vApplication",
+            "mode": "Enforced",
+            "eastWestTracking": "on",
+            "namespaces": 11,
+            "services": 11,
+            "pods": 11,
+            "apis_found": 11,
+            "sensitive_info_detected": 11,
+            "policy": {
+                "title": "policy1"
+            },
+            "schema": {
+                "type": "generated"
+            }
+        },
+        {
+            "display": "dApplication",
+            "name": "dApplication",
+            "mode": "Enforced",
+            "eastWestTracking": "on",
+            "namespaces": 11,
+            "services": 11,
+            "pods": 11,
+            "apis_found": 11,
+            "sensitive_info_detected": 11,
+            "policy": null,
+            "schema": {
+                "type": "file",
+                "file": "fileName"
+            }
+        }
+    ]
+}

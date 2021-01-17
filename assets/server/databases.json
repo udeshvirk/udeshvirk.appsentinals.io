@@ -1,0 +1,43 @@
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "db_type": "MYSQL",
+            "url": "MyServer1",
+            "db_name": "ProductDB",
+            "db_username": "admin",
+            "service_account": "admin",
+            "query_type": "GET",
+            "protocol": "HTTP",
+            "secure": "Yes",
+            "risk_score": 1
+
+        },
+        {
+            "db_type": "Mongo",
+            "url": "mongo://server:3306",
+            "db_name": "ABC DB",
+            "db_username": "",
+            "service_account": "admin",
+            "query_type": "POST",
+            "protocol": "HTTP",
+            "secure": "No",
+            "risk_score": 2
+        },
+        {
+            "db_type": "Cassandra",
+            "url": "mongo://server:3306",
+            "db_name": "XYZ DB",
+            "db_username": "",
+            "service_account": "admin",
+            "query_type": "GET",
+            "protocol": "HTTP",
+            "secure": "Yes",
+            "risk_score": 4
+        }
+
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "path": "/account/{account-id}/transaction/{transaction-id}",
+            "service": "Application 1",
+            "type": "REST",
+            "method": "GET",
+            "first_discovered": "20/12/2020",
+            "secure": "Yes",
+            "privilege": "No",
+            "risk_score": 4,
+            "title": "API 1",
+            "role": "Admin",
+            "access_to": "DB1.Collection1",
+            "db": "MySQL",
+            "url": "MyServer1",
+            "auth": "Y"
+        },
+        {
+            "path": "/account/{account-id}/transaction/{transaction-id}",
+            "service": "Application 1",
+            "type": "GraphQL",
+            "method": "POST",
+            "first_discovered": "10/12/2020",
+            "secure": "No",
+            "privilege": "Yes",
+            "risk_score": 1,
+            "title": "API 2",
+            "role": "Service-account",
+            "access_to": "DB2.Collection2",
+            "db": "Mongo",
+            "url": "mongo//server:3306",
+            "auth": "N"
+        },
+        {
+            "path": "/account/{account-id}/transaction/{transaction-id}",
+            "service": "Application 1",
+            "type": "REST",
+            "method": "GET",
+            "first_discovered": "20/11/2020",
+            "secure": "Yes",
+            "privilege": "No",
+            "risk_score": 4,
+            "title": "API 3",
+            "role": "User1",
+            "access_to": "DB3.Collection3",
+            "db": "Cassandra",
+            "url": "",
+            "auth": "Y"
+        }
+    ]
+}

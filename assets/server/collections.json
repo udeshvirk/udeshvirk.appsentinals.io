@@ -1,0 +1,36 @@
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "collection": "Product",
+            "field_name": "Name",
+            "field_type": "String",
+            "discovered_date": "",
+            "sensitive_flag": "No",
+            "sensitive_type": "PII",
+            "sensitive_field": "Phone"
+        },
+        {
+            "collection": "Config",
+            "field_name": "ID",
+            "field_type": "String",
+            "discovered_date": "",
+            "sensitive_flag": "YES",
+            "sensitive_type": "PHI",
+            "sensitive_field": "Medical"
+        },
+        {
+            "collection": "Metric",
+            "field_name": "Latency",
+            "field_type": "Number",
+            "discovered_date": "",
+            "sensitive_flag": "No",
+            "sensitive_type": "Confidential",
+            "sensitive_field": "SSN"
+        }
+
+    ]
+}

@@ -1,0 +1,27 @@
+<svg id="Back_Hover" data-name="Back Hover" xmlns="http://www.w3.org/2000/svg" width="66" height="24" viewBox="0 0 66 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #292929;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        fill: #e1e1e1;
+        font-size: 12px;
+        font-family: Roboto-Regular, Roboto;
+        letter-spacing: 0.16em;
+        opacity: 0.66;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_134" data-name="Ellipse 134" class="cls-1" cx="12" cy="12" r="12"/>
+  <g id="Group_5394" data-name="Group 5394" transform="translate(-950.5 -175.5)">
+    <path id="Path_3703" data-name="Path 3703" class="cls-2" d="M0,7.6-3.507,3.586,0-.4" transform="translate(964.168 183.5)"/>
+  </g>
+</svg>
