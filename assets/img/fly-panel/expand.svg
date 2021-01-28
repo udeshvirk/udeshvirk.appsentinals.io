@@ -1,8 +1,0 @@
-<svg id="Maximize" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <circle id="Ellipse_134" data-name="Ellipse 134" cx="12" cy="12" r="12" fill="#333"/>
-  <g id="Group_21403" data-name="Group 21403" transform="translate(14.195 3.985) rotate(48)">
-    <path id="Path_3568" data-name="Path 3568" d="M404.583,67.18v4.445h4.383" transform="translate(-404.583 -60.486)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-    <path id="Path_3569" data-name="Path 3569" d="M8.413-.052,0,.082" transform="translate(0.373 10.814) rotate(-47)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
-  </g>
-  <line id="Line_618" data-name="Line 618" y2="12" transform="translate(16.5 5.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1" opacity="0.4"/>
-</svg>
